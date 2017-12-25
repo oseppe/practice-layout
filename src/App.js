@@ -41,7 +41,7 @@ class App extends Component {
                 Could remained original brink into leering place remote with that. Blocks archives touch culminating wraith-like devastations could hideous levels have.
               </div>
             </Col>
-            <Col xs={24} md={{ span: 3, offset: 2 }}>
+            <Col xs={24} md={{ span: 2, offset: 2 }}>
               <h3 style={{ paddingBottom: '10px' }}>
                 Jobs
               </h3>
@@ -52,31 +52,51 @@ class App extends Component {
                   <li>item 3</li>
                   <li>item 4</li>
                   <li>item 5</li>
+                  <li>item 6</li>
                 </ul>
               </div>
             </Col>
-            <Col xs={24} md={{ span: 3, offset: 1 }}>
-              <div>
+            <Col xs={24} md={{ span: 2, offset: 1 }}>
+              <h3 style={{ paddingBottom: '10px' }}>
                 Trainings
-              </div>
+              </h3>
               <div>
-
+                <ul style={{ listStyleType: 'none', paddingLeft: '0px' }}>
+                  <li>item 1</li>
+                  <li>item 2</li>
+                  <li>item 3</li>
+                  <li>item 4</li>
+                  <li>item 5</li>
+                </ul>
               </div>
             </Col>
-            <Col xs={24} md={{ span: 3, offset: 1 }}>
-              <div>
+            <Col xs={24} md={{ span: 2, offset: 1 }}>
+              <h3 style={{ paddingBottom: '10px' }}>
                 More
-              </div>
+              </h3>
               <div>
-
+                <ul style={{ listStyleType: 'none', paddingLeft: '0px' }}>
+                  <li>item 1</li>
+                  <li>item 2</li>
+                  <li>item 3</li>
+                  <li>item 4</li>
+                  <li>item 5</li>
+                  <li>item 6</li>
+                </ul>
               </div>
             </Col>
-            <Col xs={24} md={{ span: 4, offset: 1}}>
-              <div>
+            <Col xs={24} md={{ span: 4, offset: 2}}>
+              <h3 style={{ paddingBottom: '10px' }}>
                 Contact
-              </div>
+              </h3>
               <div>
-
+                <ul style={{ listStyleType: 'none', paddingLeft: '0px' }}>
+                  <li>hello@website.com</li>
+                  <li>+63 111 111 1234</li>
+                  <li>123 St</li>
+                  <li>Makati NCR</li>
+                  <li>Philippines</li>
+                </ul>
               </div>
             </Col>
           </Row>
